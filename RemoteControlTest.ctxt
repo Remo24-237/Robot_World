@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RemoteControlTest
+comment0.text=\n\ <h1>Class\ to\ test\ the\ convertToKivaCommand()\ method\ in\ the\ remote\ control</h1>\n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ remoteTest()
+numComments=2

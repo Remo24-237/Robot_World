@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=KivaCommand
+comment0.text=\r\n<h1>This\ class\ contains\ the\ commands\ used\ to\ control\ the\ kiva\ Robot's\ motion.</h1>\r\n\ @author\ (Omer\ Olloumou)\ \r\n\ @version\ (10/10/2021)\r\n
+comment1.params=move
+comment1.target=KivaCommand(char)
+comment1.text=\r\n\ @param\ move\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getDirectionKey()
+comment2.text=\r\n\ Helper\ method\ to\ return\ the\ direction\ key\r\n\ @return\ Returns\ the\ direction\ key\r\n
+numComments=3

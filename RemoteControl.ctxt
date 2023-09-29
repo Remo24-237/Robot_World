@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RemoteControl
+comment0.text=\n\ <h1>This\ is\ the\ class\ that\ controls\ Kiva's\ actions.</h1>\ \n\ method\ to\ deliver\ the\ pod\ and\ avoid\ the\ obstacles.\n
+comment1.params=
+comment1.target=RemoteControl()
+comment1.text=\n\ Build\ a\ new\ RemoteControl.\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\n\ The\ controller\ that\ directs\ Kiva's\ activity.\ Prompts\ the\ user\ for\ the\ floor\ map\n\ to\ load,\ displays\ the\ map,\ and\ asks\ the\ user\ for\ the\ commands\ for\ Kiva\ to\ execute.\n\n\ \n
+comment3.params=string
+comment3.target=KivaCommand[]\ convertToKivaCommands(java.lang.String)
+comment3.text=\n\ Method\ used\ to\ convert\ User\ input\ string\ in\ to\ an\ Array\ of\ Kiva\ Commands\n\ @param\ string\ Method\ takes\ a\ string\ as\ input\n\ @return\ Method\ return\ array\ of\ type\ KivaCommmand\ \n
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=KivaMotorLifetimeTester
+comment0.text=\r\n\ <h1>Class\ used\ to\ test\ kiva\ motor\ life\ from\ the\ kiva\ class</h1>\r\n\ @author\ (Omer\ Olloumou)\ \r\n\ @version\ (10/10/2021)\r\n
+comment1.params=
+comment1.target=void\ testmotorlife()
+numComments=2
